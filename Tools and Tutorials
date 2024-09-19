@@ -1,0 +1,33 @@
+/Footprinting-and-Reconnaissance-Toolkit
+│── /Tools
+│   ├── Billcipher
+│   ├── Cache
+│   ├── Censys
+│   ├── CentralOps
+│   ├── Cewl
+│   ├── Dnsrecon
+│   ├── DomainTools
+│   ├── EmailTracker
+│   ├── FTPEngines
+│   ├── HTTTrack
+│   ├── Netcraft
+│   ├── Nslookup
+│   ├── OSINT
+│   ├── PeekYou
+│   ├── PingTTL
+│   ├── ReverseImageSearch
+│   ├── Sherlock
+│   ├── Shodan
+│   ├── TheHarvester
+│   ├── Tor
+│   ├── Traceroute
+│   ├── Tracert
+│   ├── WDE
+│   ├── Whois_POC
+│   ├── YouGetSignal
+│
+├──/Tutorials
+│   ├── Reconnaissance_Basics
+│   ├── Passive_vs_Active_Recon
+│   ├── Network_Mapping
+│   ├── Social_Engineering_Techniques
